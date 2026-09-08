@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s /b .book_frontenddocs*.md .book_frontenddocs*.js .book_frontenddocs*.py .book_frontenddocs*.json)",
+      "Bash(dir /s .book_frontenddocs)",
+      "Bash(dir \"C:\\\\governor\\\\Q4\\\\hackathon01_BookCreation\\\\hackathon01-book-creation\\\\backend\\\\rag_chatbot\")",
+      "Bash(dir \"C:\\\\governor\\\\Q4\\\\hackathon01_BookCreation\\\\hackathon01-book-creation\\\\book_frontend\\\\src\\\\components\\\\Chatbot\")",
+      "Bash(npm start)"
+    ]
+  }
+}
